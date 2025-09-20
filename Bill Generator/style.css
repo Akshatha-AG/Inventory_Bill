@@ -1,0 +1,83 @@
+*{
+    margin : 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: bisque;
+    text-align: center;
+}
+
+h1{
+    margin-top: 10px;
+    background-color: rgb(202, 142, 67);
+    color:rgb(68, 55, 39);
+    font-size: 50px;
+}
+
+h3{
+    margin-top: 10px;
+    background-color: rgb(202, 142, 67);
+    color:rgb(68, 55, 39);
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.mainBox{
+    background-color: rgb(202, 142, 67);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.inside{
+    margin-top: 20px;
+    height: 100px;
+    width: 150px;
+    font-size: 20px;
+    border: 3px solid rgb(68, 55, 39);
+    margin-left: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.bill{
+    margin-top: 20px;
+    background-color: rgb(202, 142, 67);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: rgb(68, 55, 39);
+}
+
+table{
+    border-collapse: separate;
+    border-spacing: 15px 10px;
+}
+
+th{
+    padding: 10px 20px;
+}
+
+#item{
+    padding: 10px 200px;
+}
+
+.space{
+    color: black;
+}
+
+button{
+    height: 75px;
+    width:180px;
+    background-color: rgb(202, 142, 67);
+    margin-top: 20px;
+    font-size: 17px;
+    border-radius: 10px;
+}
+
